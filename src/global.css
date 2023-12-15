@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Granphyr';
+    src: url('/Glancyr-Regular.otf');
+}
+
+@font-face {
+    font-family: 'Granphyr Bold';
+    src: url('/Glancyr-Bold.otf');
+}
+
+@font-face {
+    font-family: 'Granphyr Thin';
+    src: url('/Glancyr-Thin.otf');
+}
